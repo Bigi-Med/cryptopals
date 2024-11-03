@@ -37,6 +37,7 @@ func main(){
    coded2 := convertByteHex(bcoded2)
    coded := coded1+coded2
    fmt.Printf(coded)
+   //fmt.Printf(coded)
 
 
 }
